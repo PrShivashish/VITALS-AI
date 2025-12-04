@@ -16,4 +16,4 @@ VITALS-AI is a production-ready system for non-invasive heart rate and respirati
 - ✅ **Non-invasive**: Works with any standard camera
 - ✅ **Multi-task learning**: Simultaneous HR + respiration
 - ✅ **Cross-dataset validated**: Tested on UBFC-rPPG & PURE datasets
-- ✅ **Production-ready**: Full preprocessing + inference pipeline
+- ✅ **Production-ready**: Full preprocessing + inference pipeline 
