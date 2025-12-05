@@ -1,6 +1,6 @@
 '''
 Training Script for Multi-Task Temporal Shift Attention Networks for On-Device Contactless Vitals Measurement
-Author: Xin Liu, Daniel McDuff
+Author: Shivashish Prusty
 '''
 # %%
 from __future__ import print_function
