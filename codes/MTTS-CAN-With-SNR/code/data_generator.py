@@ -1,6 +1,6 @@
 '''
 Data Generator for Multi-Task Temporal Shift Attention Networks for On-Device Contactless Vitals Measurement
-Author: Shivashish Prust
+Author: Shivashish Prusty
 '''
 
 import math
